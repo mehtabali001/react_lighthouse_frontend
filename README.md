@@ -5,9 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-.env set up:
+## .env set up:
+// make sure it is available in .env
 
-REACT_APP_BACKEND_API_BASE_URL=http://localhost:8000  // make sure it is available in .env
+REACT_APP_BACKEND_API_BASE_URL=http://localhost:8000  
 
 
 ## Run:
